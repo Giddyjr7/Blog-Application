@@ -1,8 +1,0 @@
-body { background: #0b0e14; color: #eaeef2; }
-.navbar, .card { border-radius: 1rem; }
-.card { background: #141a23; border: 1px solid rgba(255,255,255,0.06); }
-.post-card { background: #111826; border: 1px solid rgba(255,255,255,0.08); }
-a.list-group-item { color: #dbe4f3; text-decoration: none; }
-a.list-group-item:hover { transform: translateY(-2px); transition: transform .15s ease; }
-.btn { border-radius: 999px; }
-footer { opacity: .8; }
